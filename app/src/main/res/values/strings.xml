@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Task5</string>
+    <string name="enter_1st_number">Enter 1st Number</string>
+    <string name="enter_2nd_number">Enter 2nd Number</string>
+
+    <string name="SummationTV">Summation</string>
+    <!--    <string name="SummationRTV">Summation</string>-->
+
+    <string name="MultiplicationTV">Multiplication</string>
+    <!--    <string name="MultiplicationRTV">Multiplication</string>-->
+
+    <string name="DivisionTV">Division</string>
+    <!--    <string name="DivisionRTV">Division</string>-->
+
+    <string name="SubtractionTV">Subtraction</string>
+    <!--    <string name="SubtractionRTV">Subtraction</string>-->
+
+    <string name="calculate">Calculate</string>
+
+
+</resources>
